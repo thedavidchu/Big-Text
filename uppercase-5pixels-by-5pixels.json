@@ -1,0 +1,387 @@
+{
+    "A": [
+        " XXX ",
+        "X   X",
+        "XXXXX",
+        "X   X",
+        "X   X"
+    ],
+    "B": [
+        "XXXX ",
+        "X   X",
+        "XXXX ",
+        "X   X",
+        "XXXX "
+    ],
+    "C": [
+        " XXXX",
+        "X    ",
+        "X    ",
+        "X    ",
+        " XXXX"
+    ],
+    "D": [
+        "XXXX ",
+        "X   X",
+        "X   X",
+        "X   X",
+        "XXXX "
+    ],
+    "E": [
+        "XXXXX",
+        "X    ",
+        "XXX  ",
+        "X    ",
+        "XXXXX"
+    ],
+    "F": [
+        "XXXXX",
+        "X    ",
+        "XXX  ",
+        "X    ",
+        "X    "
+    ],
+    "G": [
+        " XXXX",
+        "X    ",
+        "X  XX",
+        "X   X",
+        " XXXX"
+    ],
+    "H": [
+        "X   X",
+        "X   X",
+        "XXXXX",
+        "X   X",
+        "X   X"
+    ],
+    "I": [
+        "XXXXX",
+        "  X  ",
+        "  X  ",
+        "  X  ",
+        "XXXXX"
+    ],
+    "J": [
+        "XXXXX",
+        "   X ",
+        "   X ",
+        "X  X ",
+        " XX  "
+    ],
+    "K": [
+        "X   X",
+        "X  X ",
+        "XXX  ",
+        "X  X ",
+        "X   X"
+    ],
+    "L": [
+        "X    ",
+        "X    ",
+        "X    ",
+        "X    ",
+        "XXXXX"
+    ],
+    "M": [
+        "X   X",
+        "XX XX",
+        "X X X",
+        "X   X",
+        "X   X"
+    ],
+    "N": [
+        "X   X",
+        "XX  X",
+        "X X X",
+        "X  XX",
+        "X   X"
+    ],
+    "O": [
+        " XXX ",
+        "X   X",
+        "X   X",
+        "X   X",
+        " XXX "
+    ],
+    "P": [
+        "XXXX ",
+        "X   X",
+        "XXXX ",
+        "X    ",
+        "X    "
+    ],
+    "Q": [
+        " XXX ",
+        "X   X",
+        "X   X",
+        "X  XX",
+        " XXXX"
+    ],
+    "R": [
+        "XXXX ",
+        "X   X",
+        "XXXX ",
+        "X  X ",
+        "X   X"
+    ],
+    "S": [
+        " XXXX",
+        "X    ",
+        " XXX ",
+        "    X",
+        "XXXX "
+    ],
+    "T": [
+        "XXXXX",
+        "  X  ",
+        "  X  ",
+        "  X  ",
+        "  X  "
+    ],
+    "U": [
+        "X   X",
+        "X   X",
+        "X   X",
+        "X   X",
+        "XXXXX"
+    ],
+    "V": [
+        "X   X",
+        "X   X",
+        "X   X",
+        " X X ",
+        "  X  "
+    ],
+    "W": [
+        "X   X",
+        "X   X",
+        "X   X",
+        "X X X",
+        " X X "
+    ],
+    "X": [
+        "X   X",
+        " X X ",
+        "  X  ",
+        " X X ",
+        "X   X"
+    ],
+    "Y": [
+        "X   X",
+        "X   X",
+        " XXX ",
+        "  X  ",
+        "  X  "
+    ],
+    "Z": [
+        "XXXXX",
+        "   X ",
+        "  X  ",
+        " X   ",
+        "XXXXX"
+    ],
+    "a": [
+        " XXX ",
+        "X   X",
+        "XXXXX",
+        "X   X",
+        "X   X"
+    ],
+    "b": [
+        "XXXX ",
+        "X   X",
+        "XXXX ",
+        "X   X",
+        "XXXX "
+    ],
+    "c": [
+        " XXXX",
+        "X    ",
+        "X    ",
+        "X    ",
+        " XXXX"
+    ],
+    "d": [
+        "XXXX ",
+        "X   X",
+        "X   X",
+        "X   X",
+        "XXXX "
+    ],
+    "e": [
+        "XXXXX",
+        "X    ",
+        "XXX  ",
+        "X    ",
+        "XXXXX"
+    ],
+    "f": [
+        "XXXXX",
+        "X    ",
+        "XXX  ",
+        "X    ",
+        "X    "
+    ],
+    "g": [
+        " XXXX",
+        "X    ",
+        "X  XX",
+        "X   X",
+        " XXXX"
+    ],
+    "h": [
+        "X   X",
+        "X   X",
+        "XXXXX",
+        "X   X",
+        "X   X"
+    ],
+    "i": [
+        "XXXXX",
+        "  X  ",
+        "  X  ",
+        "  X  ",
+        "XXXXX"
+    ],
+    "j": [
+        "XXXXX",
+        "   X ",
+        "   X ",
+        "X  X ",
+        " XX  "
+    ],
+    "k": [
+        "X   X",
+        "X  X ",
+        "XXX  ",
+        "X  X ",
+        "X   X"
+    ],
+    "l": [
+        "X    ",
+        "X    ",
+        "X    ",
+        "X    ",
+        "XXXXX"
+    ],
+    "m": [
+        "X   X",
+        "XX XX",
+        "X X X",
+        "X   X",
+        "X   X"
+    ],
+    "n": [
+        "X   X",
+        "XX  X",
+        "X X X",
+        "X  XX",
+        "X   X"
+    ],
+    "o": [
+        " XXX ",
+        "X   X",
+        "X   X",
+        "X   X",
+        " XXX "
+    ],
+    "p": [
+        "XXXX ",
+        "X   X",
+        "XXXX ",
+        "X    ",
+        "X    "
+    ],
+    "q": [
+        " XXX ",
+        "X   X",
+        "X   X",
+        "X  XX",
+        " XXXX"
+    ],
+    "r": [
+        "XXXX ",
+        "X   X",
+        "XXXX ",
+        "X  X ",
+        "X   X"
+    ],
+    "s": [
+        " XXXX",
+        "X    ",
+        " XXX ",
+        "    X",
+        "XXXX "
+    ],
+    "t": [
+        "XXXXX",
+        "  X  ",
+        "  X  ",
+        "  X  ",
+        "  X  "
+    ],
+    "u": [
+        "X   X",
+        "X   X",
+        "X   X",
+        "X   X",
+        "XXXXX"
+    ],
+    "v": [
+        "X   X",
+        "X   X",
+        "X   X",
+        " X X ",
+        "  X  "
+    ],
+    "w": [
+        "X   X",
+        "X   X",
+        "X   X",
+        "X X X",
+        " X X "
+    ],
+    "x": [
+        "X   X",
+        " X X ",
+        "  X  ",
+        " X X ",
+        "X   X"
+    ],
+    "y": [
+        "X   X",
+        "X   X",
+        " XXX ",
+        "  X  ",
+        "  X  "
+    ],
+    "z": [
+        "XXXXX",
+        "   X ",
+        "  X  ",
+        " X   ",
+        "XXXXX"
+    ],
+    " ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     "
+    ],
+    ":": [
+        "     ",
+        "  X  ",
+        "     ",
+        "  X  ",
+        "     "
+    ],
+    "UNKNOWN": [
+        "     ",
+        " XXX ",
+        " X X ",
+        " XXX ",
+        "     "
+    ]
+}
