@@ -6,7 +6,7 @@ with open(letters_path, "r") as f:
     letters = json.load(f)
 
 text = "abcdefghijklmnopqrstuvwxyz"
-char_msg: List[List[str]] = [letters[char] for char in text]
+char_msg: List[List[str]] = [letters[char] if char in letters else letters["UNKNOWN"] for char in text]
 line_msg = []
 for row_id in range(5):
     line_msg.append(" ".join(map(lambda x: x[row_id], char_msg)))
